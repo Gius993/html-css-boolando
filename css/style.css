@@ -64,3 +64,13 @@ img{
 	padding: 50px 20px;
 }
 
+.foto:hover .prima{
+	display: none;
+}
+.foto:hover .seconda{
+	display: block;
+}
+.seconda{
+	display: none;
+}
+
