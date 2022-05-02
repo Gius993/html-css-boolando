@@ -121,7 +121,18 @@ footer{
 	color: white;
 }
 
+.azienda{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
 .nome-azienda{
 	font-size: large;
 	text-decoration: solid;
+	margin-bottom: 10px;
+}
+
+.footer-position{
+	justify-content: center;
+	justify-content: space-around;
+	align-items: center;
 }
