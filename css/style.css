@@ -124,6 +124,7 @@ footer{
 .azienda{
 	margin-top: 20px;
 	margin-bottom: 20px;
+	margin-left:10% ;
 }
 .nome-azienda{
 	font-size: large;
@@ -133,10 +134,13 @@ footer{
 
 .footer-position{
 	justify-content: center;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
 }
+.social{
+	margin-right:10% ;
 
+}
 
 
 
