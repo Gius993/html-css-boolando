@@ -136,3 +136,22 @@ footer{
 	justify-content: space-around;
 	align-items: center;
 }
+
+
+
+
+
+/*cuore*/
+
+.cuore{
+	
+	position: absolute;
+	top: 0;
+	right: 0;
+	
+}
+
+.background-cuore{
+	background-color: white;
+	padding: 8px;
+}
