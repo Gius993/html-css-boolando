@@ -3,3 +3,31 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+/* reset*/
+
+.flex-set{
+	display: flex;
+}
+.padding-class{
+	padding:20px;
+}
+/* header */
+
+.container{
+	color: white;
+	background-color: chocolate;
+	justify-content: center;
+	justify-content: space-around;
+
+}
+
+
+
+.image{
+	height: 30px;
+}
+
+
+/*main*/
+
