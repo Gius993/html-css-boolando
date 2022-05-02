@@ -113,3 +113,15 @@ img{
 .color-black{
 	color: black;
 }
+
+/*footer*/
+
+footer{
+	background-color: black;
+	color: white;
+}
+
+.nome-azienda{
+	font-size: large;
+	text-decoration: solid;
+}
